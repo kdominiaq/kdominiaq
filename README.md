@@ -15,13 +15,15 @@ I love new technologies, getting to know, and working with them. My greatest int
 ### What I am learning: 
 ---
 
-- [Troubleshooting and Debugging Techniques](https://www.coursera.org/learn/troubleshooting-debugging-techniques?specialization=google-it-automation)
+- [Configuration Management and the Cloud](https://www.coursera.org/learn/configuration-management-cloud?specialization=google-it-automation)
 
 ### Certification 
 ---
 - Crash Course on Python [[Certificate](https://www.coursera.org/account/accomplishments/certificate/K9ZASNQ4CNSW)]
 - Introduction to Git and GitHub [[Certificate](https://www.coursera.org/account/accomplishments/certificate/57NH8AR79E3G)]
 - Using Python to Interact with the Operating System [[Certificate](https://www.coursera.org/account/accomplishments/certificate/U8RP6YJY5KNM)]
+- Troubleshooting and Debugging Techniques [[Certificate](https://www.coursera.org/account/accomplishments/verify/MMN7B46AWGGS)]
+
 
 ### Connect with me
 ---
