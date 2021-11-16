@@ -15,7 +15,7 @@ I love new technologies, getting to know, and working with them. My greatest int
 ### What I am learning: 
 ---
 
-- [Configuration Management and the Cloud](https://www.coursera.org/learn/configuration-management-cloud?specialization=google-it-automation)
+- [Automating Real-World Tasks with Python](https://www.coursera.org/learn/automating-real-world-tasks-python)
 
 ### Certification 
 ---
@@ -23,7 +23,7 @@ I love new technologies, getting to know, and working with them. My greatest int
 - Introduction to Git and GitHub [[Certificate](https://www.coursera.org/account/accomplishments/certificate/57NH8AR79E3G)]
 - Using Python to Interact with the Operating System [[Certificate](https://www.coursera.org/account/accomplishments/certificate/U8RP6YJY5KNM)]
 - Troubleshooting and Debugging Techniques [[Certificate](https://www.coursera.org/account/accomplishments/verify/MMN7B46AWGGS)]
-
+- Configuration Management and the Cloud [[Certificate](https://www.coursera.org/account/accomplishments/certificate/CU4MSNVCNRRE)]
 
 ### Connect with me
 ---
