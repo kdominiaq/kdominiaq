@@ -15,10 +15,13 @@ I love new technologies, getting to know, and working with them. My greatest int
 ### What I am learning: 
 ---
 
-- [Automating Real-World Tasks with Python](https://www.coursera.org/learn/automating-real-world-tasks-python)
+- [Intel® Edge AI Certification](https://www.intel.com/content/www/us/en/developer/tools/devcloud/edge/learn/certification.html)
 
 ### Certification 
 ---
+- Google IT Automation with Python [[Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/4F888M2WZHSA)]
+- 
+- Automating Real-World Tasks with Python [[Certificate](https://www.coursera.org/account/accomplishments/certificate/L3A5RZZP5KJ2)]
 - Crash Course on Python [[Certificate](https://www.coursera.org/account/accomplishments/certificate/K9ZASNQ4CNSW)]
 - Introduction to Git and GitHub [[Certificate](https://www.coursera.org/account/accomplishments/certificate/57NH8AR79E3G)]
 - Using Python to Interact with the Operating System [[Certificate](https://www.coursera.org/account/accomplishments/certificate/U8RP6YJY5KNM)]
