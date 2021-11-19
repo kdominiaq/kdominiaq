@@ -20,7 +20,6 @@ I love new technologies, getting to know, and working with them. My greatest int
 ### Certification 
 ---
 - Google IT Automation with Python [[Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/4F888M2WZHSA)]
-- 
 - Automating Real-World Tasks with Python [[Certificate](https://www.coursera.org/account/accomplishments/certificate/L3A5RZZP5KJ2)]
 - Crash Course on Python [[Certificate](https://www.coursera.org/account/accomplishments/certificate/K9ZASNQ4CNSW)]
 - Introduction to Git and GitHub [[Certificate](https://www.coursera.org/account/accomplishments/certificate/57NH8AR79E3G)]
