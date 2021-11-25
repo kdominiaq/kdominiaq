@@ -10,7 +10,7 @@ I love new technologies, getting to know, and working with them. My greatest int
 ----
  - At least one algorithmic challenge from the leetcode website per day,[Leetcode](https://github.com/kdominiaq/Leetcode),
  - Improving my skills in Python, [Introduction Python Modules](https://github.com/kdominiaq/Introduction-Python-Modules),
- - Chess game with computer vision, [Chess](https://github.com/kdominiaq/chess).
+ - Chess game with computer vision, [Chess Helper](https://github.com/kdominiaq/Chess_Helper).
  
 ### What I am learning: 
 ---
