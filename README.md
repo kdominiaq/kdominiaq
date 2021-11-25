@@ -5,12 +5,16 @@ I love new technologies, getting to know, and working with them. My greatest int
 - 🎓 I'm pursuing a Bachelor's degree in  `Automatic Control and Robotics` at the University of Technology in Poznan.
 - 💼 Currently working as `Machine Learning Engineer (Computer Vision)`.
 
-
+### Finished projects:
+----
+ - Denoising image by deep learning, [Denoising-image](https://github.com/kdominiaq/Denoising-image)
+ - Pothole detection using AI, [Real time pothole detection](https://github.com/kdominiaq/Real-time-pothole-detection).
+ 
 ### What I am working on:
 ----
+ - Chess game with computer vision, [Chess Helper](https://github.com/kdominiaq/Chess_Helper),
  - At least one algorithmic challenge from the leetcode website per day,[Leetcode](https://github.com/kdominiaq/Leetcode),
- - Improving my skills in Python, [Introduction Python Modules](https://github.com/kdominiaq/Introduction-Python-Modules),
- - Chess game with computer vision, [Chess Helper](https://github.com/kdominiaq/Chess_Helper).
+ - Improving my skills in Python, [Introduction Python Modules](https://github.com/kdominiaq/Introduction-Python-Modules).
  
 ### What I am learning: 
 ---
