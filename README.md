@@ -13,6 +13,7 @@ I love new technologies, getting to know, and working with them. My greatest int
 ### What I am working on:
 ----
  - Chess game with computer vision, [Chess Helper](https://github.com/kdominiaq/Chess_Helper),
+ - Improving my AI skills, [Intel-Edge-AI-Certification](https://github.com/kdominiaq/Intel-Edge-AI-Certification).
  - At least one algorithmic challenge from the leetcode website per day,[Leetcode](https://github.com/kdominiaq/Leetcode),
  - Improving my skills in Python, [Introduction Python Modules](https://github.com/kdominiaq/Introduction-Python-Modules).
  
@@ -24,12 +25,12 @@ I love new technologies, getting to know, and working with them. My greatest int
 ### Certification 
 ---
 - Google IT Automation with Python [[Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/4F888M2WZHSA)]
-- Automating Real-World Tasks with Python [[Certificate](https://www.coursera.org/account/accomplishments/certificate/L3A5RZZP5KJ2)]
-- Crash Course on Python [[Certificate](https://www.coursera.org/account/accomplishments/certificate/K9ZASNQ4CNSW)]
-- Introduction to Git and GitHub [[Certificate](https://www.coursera.org/account/accomplishments/certificate/57NH8AR79E3G)]
-- Using Python to Interact with the Operating System [[Certificate](https://www.coursera.org/account/accomplishments/certificate/U8RP6YJY5KNM)]
-- Troubleshooting and Debugging Techniques [[Certificate](https://www.coursera.org/account/accomplishments/verify/MMN7B46AWGGS)]
-- Configuration Management and the Cloud [[Certificate](https://www.coursera.org/account/accomplishments/certificate/CU4MSNVCNRRE)]
+* Automating Real-World Tasks with Python [[Certificate](https://www.coursera.org/account/accomplishments/certificate/L3A5RZZP5KJ2)]
+* Crash Course on Python [[Certificate](https://www.coursera.org/account/accomplishments/certificate/K9ZASNQ4CNSW)]
+* Introduction to Git and GitHub [[Certificate](https://www.coursera.org/account/accomplishments/certificate/57NH8AR79E3G)]
+* Using Python to Interact with the Operating System [[Certificate](https://www.coursera.org/account/accomplishments/certificate/U8RP6YJY5KNM)]
+* Troubleshooting and Debugging Techniques [[Certificate](https://www.coursera.org/account/accomplishments/verify/MMN7B46AWGGS)]
+* Configuration Management and the Cloud [[Certificate](https://www.coursera.org/account/accomplishments/certificate/CU4MSNVCNRRE)]
 
 ### Connect with me
 ---
