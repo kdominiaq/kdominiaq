@@ -20,10 +20,11 @@ I love new technologies, getting to know, and working with them. My greatest int
 ### What I am learning: 
 ---
 
-- [Intel® Edge AI Certification](https://www.intel.com/content/www/us/en/developer/tools/devcloud/edge/learn/certification.html)
+- [CV I: Introduction](https://opencv.org/courses/)
 
 ### Certification 
 ---
+- Intel® Edge AI Certification [[Certificate](https://www.credly.com/badges/77560e47-1343-47e1-b38f-41d1634b428a?source=linked_in_profile)]
 + Google IT Automation with Python [[Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/4F888M2WZHSA)]
 * Automating Real-World Tasks with Python [[Certificate](https://www.coursera.org/account/accomplishments/certificate/L3A5RZZP5KJ2)]
 * Crash Course on Python [[Certificate](https://www.coursera.org/account/accomplishments/certificate/K9ZASNQ4CNSW)]
