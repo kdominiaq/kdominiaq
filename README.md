@@ -7,13 +7,13 @@ I love new technologies, getting to know, and working with them. My greatest int
 
 ### Finished projects:
 ----
+ - Chess game with computer vision, [Chess Helper](https://github.com/kdominiaq/Chess_Helper),
  - Denoising image by deep learning, [Denoising-image](https://github.com/kdominiaq/Denoising-image)
  - Pothole detection using AI, [Real time pothole detection](https://github.com/kdominiaq/Real-time-pothole-detection).
+ - Improving my AI skills, [Intel-Edge-AI-Certification](https://github.com/kdominiaq/Intel-Edge-AI-Certification).
  
 ### What I am working on:
 ----
- - Chess game with computer vision, [Chess Helper](https://github.com/kdominiaq/Chess_Helper),
- - Improving my AI skills, [Intel-Edge-AI-Certification](https://github.com/kdominiaq/Intel-Edge-AI-Certification).
  - At least one algorithmic challenge from the leetcode website per day,[Leetcode](https://github.com/kdominiaq/Leetcode),
  - Improving my skills in Python, [Introduction Python Modules](https://github.com/kdominiaq/Introduction-Python-Modules).
  
