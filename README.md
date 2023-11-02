@@ -1,6 +1,6 @@
 ### Hi there, I'm Kacper Dominiak
 ----
-I love new technologies, getting to know, and working with them. My greatest interest is machine learning and image processing (Real-Time Detection). I actively learning about software development in extracurriculars using many tutorials and books.
+I love new technologies, getting to know, and working with them. My greatest interest is machine learning and image processing. I actively learning about software development in extracurriculars using many tutorials and books.
 
 - 🎓 Bachelor's degree in  `Automatic Control and Robotics` at the University of Technology in Poznan.
 - 🎓 Master's degree in  `Computer Science` at the  WSB Merito University in Poznań.
